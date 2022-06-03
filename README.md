@@ -4,7 +4,7 @@ I'm a backend-focused software engineer with a passion for building great produc
 
 - 📫 How to reach me: gkao123@brandeis.edu
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gkao123.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkao123&hide=contribs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
